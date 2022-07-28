@@ -1,6 +1,4 @@
-# Sughosh Dixit Website ⚡️   
-
-## You'll Never Walk Alone!
+# Sughosh Dixit Website ⚡️
 
 
 
