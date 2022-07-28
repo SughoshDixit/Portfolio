@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.44774f47.chunk.css",
+    "main.js": "/Portfolio/static/js/main.b7743df7.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.b7743df7.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.42e111c1.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.42e111c1.js.map",
+    "static/js/2.44344813.chunk.js": "/Portfolio/static/js/2.44344813.chunk.js",
+    "static/js/2.44344813.chunk.js.map": "/Portfolio/static/js/2.44344813.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/Portfolio/static/css/3.df879eac.chunk.css",
+    "static/js/3.8339ce53.chunk.js": "/Portfolio/static/js/3.8339ce53.chunk.js",
+    "static/js/3.8339ce53.chunk.js.map": "/Portfolio/static/js/3.8339ce53.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/Portfolio/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.1e7fe4ca.chunk.js": "/Portfolio/static/js/4.1e7fe4ca.chunk.js",
+    "static/js/4.1e7fe4ca.chunk.js.map": "/Portfolio/static/js/4.1e7fe4ca.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.b23c7a075c40f7f436cc410e2a3e9b76.js": "/Portfolio/precache-manifest.b23c7a075c40f7f436cc410e2a3e9b76.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/Portfolio/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/Portfolio/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.44774f47.chunk.css.map": "/Portfolio/static/css/main.44774f47.chunk.css.map",
+    "static/js/2.44344813.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.44344813.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/BIT.jfif": "/Portfolio/static/media/BIT.ad7295b2.jfif",
+    "static/media/Rakuten.jpg": "/Portfolio/static/media/Rakuten.7b904413.jpg",
+    "static/media/contactMailDark.svg": "/Portfolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/Portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/harvardLogo.png": "/Portfolio/static/media/harvardLogo.f60e4fd9.png",
+    "static/media/manOnTable.svg": "/Portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/oracle.jfif": "/Portfolio/static/media/oracle.a798cdf1.jfif",
+    "static/media/paniit.png": "/Portfolio/static/media/paniit.f5b9c664.png",
+    "static/media/printalytix.png": "/Portfolio/static/media/printalytix.10db07c4.png",
+    "static/media/siemens.jfif": "/Portfolio/static/media/siemens.c2bc4ed3.jfif",
+    "static/media/skill.svg": "/Portfolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/Portfolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42e111c1.js",
+    "static/js/2.44344813.chunk.js",
+    "static/css/main.44774f47.chunk.css",
+    "static/js/main.b7743df7.chunk.js"
+  ]
+}
