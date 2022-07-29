@@ -26,7 +26,7 @@ const greeting = {
     "A Data analyst by profession capable of building of Web Applications like this using various tech stacks 🚀 having experience of building Web applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks and aspiring to work on impacting Data Science Projects and build supporting applications."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/18nkv7Pf2aCeRaHfjskX24ZvmsZTyQvW_/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -59,7 +59,8 @@ const skillsSection = {
       "⚡ Dream to eradicate Colonial Consciousness amongst people of Bharat and rebuild the sense of being a Bharateeya"),
       emoji(
         "⚡ Occasionally sing Patriotic Songs and Bhajans"),
-        emoji("⚡ A quick learner - Throw any work at me, within a week I guarantee to contribute to the work")
+        emoji("⚡ A quick learner - Throw any work at me, within a week I guarantee to contribute to the work"),
+        emoji("⚡ Presently volunteering with the responsibility of Mahavidyalaya Vidyarthi Pramukh on Nagara level at Rashtriya Swayamsevak Sangh. Once a Swayamsevak always a Swayamsevak")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -122,7 +123,7 @@ const educationInfo = {
       duration: "September 2021 - September 2023",
       desc: "Hustling studies with work",
       descBullets: [
-        "Working on some very interesting projects, collaborating with highly motivated team of members"
+        "Working on some very interesting projects, collaborating with highly motivated group of members"
       ]
     },
     {
@@ -130,7 +131,7 @@ const educationInfo = {
       logo: require("./assets/images/BIT.jfif"),
       subHeader: "Bachelor of Technology in Information Science and Engineering",
       duration: "September 2016 - April 2020",
-      desc: "Self studied almost all courses in depth.",
+      desc: "Self studied almost all courses in depth",
       descBullets: ["Experienced some up-skilling and rewarding internships and hackathons during this time"]
     }
   ]
@@ -168,7 +169,7 @@ const workExperiences = {
       company: "Printalytix",
       companylogo: require("./assets/images/printalytix.png"),
       date: "July 2018 – September 2018",
-      desc: "Worked as a design intern, participated as a guide along with senior colleagues at the aforementioned company, at Workbench Projects,Bangalore in a national level innovation competition organized by Niti-Ayog.",
+      desc: "Worked as a design intern, participated as a guide along with senior colleagues at the aforementioned company, at Workbench Projects,Bangalore in a national level innovation competition organized by Niti-Ayog",
       descBullets: [
         "Contributed in designing BPMN (Business Process Modelling and Notation) for various different scenarios",
         "Learnt how to operate an FDM 3-D printer, learnt their working to produce some prototypes"
@@ -284,7 +285,7 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "With Love for Developing cool stuff, I love to write and teach others what I have learnt and experienced",
   displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
@@ -338,7 +339,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.  😬 ",
+    "Discuss a project or just want to say hi? My Inbox is open for all!  😬 ",
   number: "+91-8310080859",
   email_address: "sughoshpdixit@gmail.com"
 };
