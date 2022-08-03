@@ -56,7 +56,7 @@ From your command line, clone and run the startwebsite.cmd by changing the path 
 $ git clone https://github.com/invincible0809/SughoshDixit.git
 
 # Go into the repository
-$ cd developerFolio
+$ cd <foldername>
 
 # Install dependencies
 $ npm install
@@ -135,8 +135,6 @@ This section guides you to deploy your portfolio on Github pages.
 #### Deploying to Netlify
 
 You could also host directly with Netlify by linking your own repository.
-
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/saadpasta/developerFolio)
 
 For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
 
