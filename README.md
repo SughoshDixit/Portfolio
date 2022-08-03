@@ -25,7 +25,7 @@ Just change `src/portfolio.js` to get your personal portfolio . Feel free to use
 ✔️ Twitter Timeline\
 ✔️ Github Profile
 
-To view a live example, **[click here](https://invincible0809.github.io/SughoshDixit/)**
+To view a live example, **[click here](https://github.com/SughoshDixit/Portfolio.git)**
 
 
 ## Getting Started 🚀
