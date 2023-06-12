@@ -327,9 +327,9 @@ const podcastSection = {
   title: emoji("Songs 🎙️"),
   subtitle: "Bhajan",
 
-  // Please Provide with Your Podcast embeded Link
+  // Please Provide with Your Podcast embedded Link
   podcast: [
-    "https://youtu.be/5yboAf--FDU"
+    "https://www.youtube.com/embed/UA12v_Y53Go"
   ],
   display: true // Set false to hide this section, defaults to true
 };
